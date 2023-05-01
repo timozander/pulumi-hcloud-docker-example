@@ -1,0 +1,16 @@
+{
+    "name": "pulumi-hcloud-example",
+    "main": "index.ts",
+    "type": "module",
+    "devDependencies": {
+        "@types/node": "^16",
+        "ts-node": "^10.9.1"
+    },
+    "dependencies": {
+        "@pulumi/command": "^0.6.0",
+        "@pulumi/docker": "^3.6.1",
+        "@pulumi/hcloud": "^1.11.1",
+        "@pulumi/pulumi": "^3.65.1",
+        "@pulumi/tls": "^4.6.1"
+    }
+}
